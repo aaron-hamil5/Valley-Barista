@@ -1,0 +1,2 @@
+# Valley Barista
+ In this project, we extended on Just Java to hold more choses of coffee we were selling with the extras that we have so we can do mobile ordering around classes to get more Staff and students to order coffee to increate sales and get more money to donate to Newhouse. We chose to make an app to speed up the order and make the coffees as soon as possible as it was an extremely busy day due to the large amount to customers coming in.
